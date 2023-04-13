@@ -1,0 +1,15 @@
+{
+  "name": "test-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "T1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
